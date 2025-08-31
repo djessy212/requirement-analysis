@@ -152,4 +152,4 @@ Examples for the Booking Management Project:
 
 **Diagram:**  
 The use case diagram for the booking system is designed using Draw.io (or any UML tool) and exported as a PNG file.  
-![Use Case Diagram](alx-booking-uc.png)
+![Use Case Diagram](alx-booking-uc.png_
