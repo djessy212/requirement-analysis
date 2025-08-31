@@ -56,3 +56,45 @@ Guides Design, Development, and Testing
 Requirements act as a blueprint for developers and designers, helping them build software that aligns with stakeholder needs.
 
 They also provide criteria for testing and validation, ensuring that the final product meets both functional and non-functional expectations.
+
+
+Key Activities in Requirement Analysis
+Requirement Gathering
+
+The initial step of collecting information from stakeholders about their needs, expectations, and challenges.
+
+Involves methods like interviews, surveys, observations, and workshops.
+
+Ensures all relevant requirements are captured before deeper analysis.
+
+Requirement Elicitation
+
+Focuses on drawing out, clarifying, and refining stakeholder requirements.
+
+Uses techniques such as brainstorming, prototyping, and use case scenarios to uncover hidden needs.
+
+Helps bridge communication gaps between users and developers.
+
+Requirement Documentation
+
+Recording requirements in a clear, structured format, often in Software Requirement Specification (SRS) documents, use cases, or user stories.
+
+Ensures that requirements are traceable, unambiguous, and accessible to all stakeholders.
+
+Acts as a reference point throughout the SDLC.
+
+Requirement Analysis and Modeling
+
+Examining gathered requirements to identify conflicts, dependencies, feasibility, and priorities.
+
+Creating models (like data flow diagrams, UML diagrams, or use case diagrams) to visualize system behavior and interactions.
+
+Ensures requirements are well understood before design begins.
+
+Requirement Validation
+
+Reviewing documented requirements with stakeholders to ensure correctness, completeness, and alignment with business goals.
+
+Helps detect errors or misunderstandings early.
+
+Provides formal approval, giving the green light for design and development.
