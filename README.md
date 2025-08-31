@@ -150,6 +150,5 @@ Examples for the Booking Management Project:
 - Approve/Reject Booking (Admin)  
 - Manage Properties (Admin)  
 
-**Diagram:**  
-The use case diagram for the booking system is designed using Draw.io (or any UML tool) and exported as a PNG file.  
+Diagram
 ![Use Case Diagram](alx-booking-uc.png_)
