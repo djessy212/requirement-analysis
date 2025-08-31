@@ -151,4 +151,4 @@ Booking System Use Case Diagram
 - Manage Properties (Admin)  
 
 Diagram
-![Use Case Diagram](alx-booking-uc.png_)
+![Use Case Diagram](alx-booking-uc.png)
