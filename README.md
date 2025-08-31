@@ -121,3 +121,36 @@ Examples for the Booking Management Project:
 - The system should support up to 500 concurrent users.  
 - The booking process must be accessible on mobile and desktop devices.  
 - System uptime should be at least 99.5% per month.
+
+- Use Case Diagrams
+
+**Use Case Diagrams** are visual representations of the interactions between **users (actors)** and a system. They help illustrate the functional requirements of a system by showing which actions (use cases) each actor can perform. Use case diagrams are part of the Unified Modeling Language (UML) and are useful for understanding system behavior from a user perspective.
+
+**Benefits of Use Case Diagrams:**
+- Provide a clear overview of system functionality and user interactions.  
+- Help communicate requirements effectively to stakeholders and developers.  
+- Identify all actors and their interactions with the system, reducing gaps in requirements.  
+- Serve as a foundation for developing detailed use cases, test scenarios, and documentation.
+
+---
+
+### Booking System Use Case Diagram
+
+**Actors:**  
+- **User**: Registers, logs in, searches properties, makes bookings, cancels bookings, receives notifications.  
+- **Admin**: Manages properties, approves or rejects bookings, views reports.
+
+**Use Cases:**  
+- User Registration & Login  
+- Search Properties  
+- Make Booking  
+- Cancel Booking  
+- Receive Notifications  
+- Manage Bookings (Admin)  
+- Approve/Reject Booking (Admin)  
+- Manage Properties (Admin)  
+
+**Diagram:**  
+The use case diagram for the booking system is designed using Draw.io (or any UML tool) and exported as a PNG file.  
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
