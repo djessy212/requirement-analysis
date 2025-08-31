@@ -98,3 +98,26 @@ Reviewing documented requirements with stakeholders to ensure correctness, compl
 Helps detect errors or misunderstandings early.
 
 Provides formal approval, giving the green light for design and development.
+
+Types of Requirements
+Functional Requirements
+Functional requirements describe **what the system should do**—the specific features, behaviors, and functions that the software must perform to meet user needs. They define the actions the system should take in response to inputs or events.
+
+Examples for the Booking Management Project:
+- Users can create, update, and cancel bookings.  
+- Admins can approve or reject booking requests.  
+- The system allows users to search for available properties by location, date, and type.  
+- Users receive email notifications when a booking is confirmed or canceled.  
+- Users can register and log in with secure credentials.
+
+---
+
+Non-functional Requirements
+Non-functional requirements describe **how the system should perform**, including quality attributes, constraints, and operational conditions. They define criteria for **system performance, reliability, usability, and security**, rather than specific behaviors.
+
+Examples for the Booking Management Project:
+- The system should load any page within 2 seconds.  
+- User data must be encrypted and stored securely to ensure privacy.  
+- The system should support up to 500 concurrent users.  
+- The booking process must be accessible on mobile and desktop devices.  
+- System uptime should be at least 99.5% per month.
