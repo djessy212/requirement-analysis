@@ -179,7 +179,7 @@ Example: Acceptance Criteria for Checkout Feature (Booking Management System)
 
 Feature: Checkout
 
-Acceptance Criteria:
+Acceptance Criteria
 
 Users can select a payment method (credit card, PayPal, or bank transfer).
 
